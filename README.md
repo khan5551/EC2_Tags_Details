@@ -1,5 +1,5 @@
 # EC2_Tags_Details
-Listing and Updating EC2 Tags \
+Listing and Update EC2 Tags \
 This script will put all ec2 instances with their tags into a spreadsheet. 
 One instance per row with the instance ID in col A. tag-keys are separated into columns.
 If a instance doesn't have a tag, the cell will be left blank. Otherwise the tag-value is placed into the corresponding cell.

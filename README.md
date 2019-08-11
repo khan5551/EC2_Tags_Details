@@ -16,4 +16,4 @@ optional arguments: \
                         AWS region to use. \
   -v, --version         show program's version number and exit
 
-Example  -  python tags-to-csv.py -o tags.csv --region 'us-east-1'
+Example  -  python tagTOcsv.py -o tags.csv --region 'us-east-1'
